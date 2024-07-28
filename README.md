@@ -78,6 +78,6 @@ The project demonstrated the potential of machine learning for predicting loan a
 ## Installation
 To run this project, clone the repository and install the required libraries:
 ```bash
-git clone https://github.com/yourusername/loan-prediction.git
-cd loan-prediction
+git clone https://github.com/samjoeld/Loan-Prediction-Using-Machine-Learning.git
+cd Loan-Prediction-Using-Machine-Learning
 pip install -r requirements.txt
